@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "swarmobot")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/swarmobot.kicad_sym")(options "")(descr ""))
+  (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/Connector.kicad_sym")(options "")(descr ""))
+)
