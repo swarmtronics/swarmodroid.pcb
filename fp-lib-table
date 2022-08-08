@@ -5,6 +5,5 @@
   (lib (name "Package_SO")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Package_SO.pretty")(options "")(descr ""))
   (lib (name "Package_TO_SOT_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Package_TO_SOT_SMD.pretty")(options "")(descr ""))
   (lib (name "Resistor_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Resistor_SMD.pretty")(options "")(descr ""))
-  (lib (name "Swarmobot_custom")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Swarmobot_custom.pretty")(options "")(descr ""))
-  (lib (name "Swarmobot_custom_obsolete")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Swarmobot_custom_obsolete.pretty")(options "")(descr ""))
+  (lib (name "Swarmobot_custom")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty/Swarmodroid_custom.pretty")(options "")(descr ""))
 )
